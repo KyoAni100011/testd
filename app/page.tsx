@@ -17,7 +17,7 @@ import { PieChart, Pie, Cell } from "recharts";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/autoplay";
-import { Autoplay, EffectFade, Navigation } from "swiper/modules";
+import { Autoplay, Navigation } from "swiper/modules";
 
 import data from "./data.json";
 
